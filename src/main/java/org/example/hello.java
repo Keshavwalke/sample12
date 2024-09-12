@@ -50,6 +50,9 @@ public class hello {
             System.out.print(resDes[i]+ "  ");
         }
 
+        int c= 50 ;
+
+
 
     }
 }
