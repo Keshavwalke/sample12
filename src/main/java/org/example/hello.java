@@ -50,9 +50,5 @@ public class hello {
             System.out.print(resDes[i]+ "  ");
         }
 
-        int age= 50 ;
-
-
-
     }
 }
